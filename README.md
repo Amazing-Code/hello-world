@@ -1,2 +1,3 @@
 # hello-world
-welcome to the real world!
+Hi there,
+I am new coder who wants to learn how to code...
